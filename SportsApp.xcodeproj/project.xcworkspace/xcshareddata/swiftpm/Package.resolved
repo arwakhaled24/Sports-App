@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire",
+      "state" : {
+        "revision" : "3dc6a42c7727c49bf26508e29b0a0b35f9c7e1ad",
+        "version" : "5.8.1"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "2ef543ee21d63734e1c004ad6c870255e8716c50",
+        "version" : "7.12.0"
+      }
+    },
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "revision" : "1d29eccc24cc8b75bff9f6804155112c0ffc9605",
+        "version" : "4.4.3"
+      }
+    },
+    {
+      "identity" : "reachability.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ashleymills/Reachability.swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "21d1dc412cfecbe6e34f1f4c4eb88d3f912654a6"
+      }
+    },
+    {
+      "identity" : "shimmerswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BeauNouvelle/ShimmerSwift.git",
+      "state" : {
+        "revision" : "f1a4366f74329c313e9528bcbe5286eacc750c05",
+        "version" : "2.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
